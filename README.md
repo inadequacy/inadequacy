@@ -3,6 +3,7 @@
 Check out my repos to see my progress learning and practicing coding.
 
 # Languages
+:C:
 C, C#, Gdscript, Python, Javascript
 
 # Game Dev
