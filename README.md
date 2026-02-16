@@ -32,8 +32,7 @@ Check out my repos to see my progress learning and practicing coding.
 <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=unreal" alt="unreal engine" width="30" height="30"/>
 </a>
-
-Godot, Unity, Unreal Engine, _engine I make with my friends 🙈_
+and lastly: _an engine I make with my friends 🙈 (not yet made)_
 
 <!--
 **inadequacy/inadequacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
