@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-Check out my repos to see my progress learning and practicing coding.
+<p>Check out my repos to see my progress  </p>
+<p>learning and practicing coding.        </p>
+<p>Very passionate about game making and  </p>
+<p>currently on my journey to mastering   </p>
+<p>all game creation aspects that I can!  </p>
 
-# Languages
+# Code
+<p>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=c" alt="c" width="30" height="30"/>
 </a>
@@ -12,6 +17,8 @@ Check out my repos to see my progress learning and practicing coding.
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="30" height="30"/>
 </a>
+</p>
+<p>
 <a href="https://gdscript.com/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=godot" alt="gdscript" width="30" height="30"/>
 </a>
@@ -21,8 +28,9 @@ Check out my repos to see my progress learning and practicing coding.
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=py" alt="python" width="30" height="30"/>
 </a>
+</p>
 
-# Game Dev
+# Games
 <a href="https://gdscript.com/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=godot" alt="gdscript" width="30" height="30"/>
 </a>
@@ -32,7 +40,6 @@ Check out my repos to see my progress learning and practicing coding.
 <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=unreal" alt="unreal engine" width="30" height="30"/>
 </a>
-and lastly: _an engine I make with my friends 🙈 (not yet made)_
 
 <!--
 **inadequacy/inadequacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
