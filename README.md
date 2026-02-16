@@ -13,7 +13,7 @@ Check out my repos to see my progress learning and practicing coding.
 <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="30" height="30"/>
 </a>
 <a href="https://gdscript.com/" target="_blank" rel="noreferrer">
-<img src="https://skillicons.dev/icons?i=js" alt="gdscript" width="30" height="30"/>
+<img src="https://skillicons.dev/icons?i=godot" alt="gdscript" width="30" height="30"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="30" height="30"/>
@@ -23,6 +23,16 @@ Check out my repos to see my progress learning and practicing coding.
 </a>
 
 # Game Dev
+<a href="https://gdscript.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=godot" alt="gdscript" width="30" height="30"/>
+</a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=unity" alt="unity" width="30" height="30"/>
+</a>
+<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=unreal" alt="unreal engine" width="30" height="30"/>
+</a>
+
 Godot, Unity, Unreal Engine, _engine I make with my friends 🙈_
 
 <!--
