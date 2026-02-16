@@ -3,7 +3,24 @@
 Check out my repos to see my progress learning and practicing coding.
 
 # Languages
-C, C#, Gdscript, Python, Javascript
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=c" alt="c" width="30" height="30"/>
+</a>
+<a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=cs" alt="c#" width="30" height="30"/>
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="30" height="30"/>
+</a>
+<a href="https://gdscript.com/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=js" alt="gdscript" width="30" height="30"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="30" height="30"/>
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://skillicons.dev/icons?i=py" alt="python" width="30" height="30"/>
+</a>
 
 # Game Dev
 Godot, Unity, Unreal Engine, _engine I make with my friends 🙈_
