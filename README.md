@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Check out my repos to see my progress learning and practicing coding.
+
+# Languages
+C, C#, Gdscript, Python, Javascript
+
+# Game Dev
+Godot, Unity, Unreal Engine, _engine I make with my friends 🙈_
+
 <!--
 **inadequacy/inadequacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
